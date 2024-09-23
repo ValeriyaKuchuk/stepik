@@ -8,3 +8,4 @@ git remote add origin https://github.com/ValeriyaKuchuk/stepik.git
  git push -u origin main
 git commit -m "Мое первое изменение" 
 git commit -m "updated a README.md"
+git push origin main
